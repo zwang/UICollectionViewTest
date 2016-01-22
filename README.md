@@ -6,3 +6,6 @@ For example in the code, I set the `contentInset` of `collectionView` to be `(10
 This repository demostrated the issue and provided a temporary fix by manually adding the values.
 
 Please let me know if you have a better solution for this problem. 
+
+
+Note: The solution only works for iOS 8.0 and later. For iOS 7.1 or earlier version, check solutions of checking system version here: http://nshipster.com/swift-system-version-checking/
